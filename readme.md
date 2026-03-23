@@ -1,1 +1,1 @@
-wadawddbash day2
+bash day2
